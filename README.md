@@ -40,3 +40,10 @@ Each training and test example is assigned to one of the following labels:
     └── generator_model.h5
 ```
 
+# Models
+
+### There are 2 models:
+### 1. Vanilla Dense layer based GAN
+### 2. Conditional GAN using Dense layers (Using the labels associated with each images)
+
+Each of the models are trained for 30000 epochs.
