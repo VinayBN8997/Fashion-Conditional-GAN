@@ -2,10 +2,8 @@
 Fashion MNIST : Conditional GAN 
 
 # File structure:
-
+```
 ├── Data
-│   ├── Test_Data.gz
-│   ├── Test_Labels.gz
 │   ├── Train_Data.gz
 │   └── Train_Labels.gz
 ├── Fashion-GAN.ipynb
@@ -18,3 +16,5 @@ Fashion MNIST : Conditional GAN
     ├── generator_CGAN.json
     ├── generator_CGAN_model.h5
     └── generator_model.h5
+```
+
